@@ -1,0 +1,57 @@
+.PA{
+  
+    width: 1440px;
+    height: 42px;
+    background-color: #F5F5F5;
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    font-family: monospace;
+}
+
+.texto1{
+    font-size: 14px;
+    color: #666666;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    grid-column: 1/2;
+}
+
+.AP2    {
+    grid-column: 2/3;
+    padding:3px;
+    justify-content: center;
+    align-items: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    
+   
+ 
+    
+}
+
+ .texto2{
+   
+    color: #666666;
+    font-size: 14px;
+    
+    
+ }
+
+
+ .caja1 {
+   padding-left: 20px;
+   padding-right: 20px;
+    border-right: 3px solid#D9D9D9;
+    gap: 30px;
+ }
+ 
+
+ .caja2{
+   padding-left: 20px;
+   padding-right: 20px;
+   display: flex;
+    
+ }
+ 
+
