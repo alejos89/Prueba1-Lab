@@ -1,0 +1,130 @@
+.caja10{
+    height: 69px;
+    width: 1440px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    border-bottom:1px solid #EDEDED;
+}
+
+.categoria1{
+    color:white;
+    background-color: #008ECC;
+    font-size: 14px;
+    height: 36px;
+    width: 125px;
+    border-radius: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    
+}
+
+.categoria2{
+    width: 160px;
+    height: 36px;
+    background-color: #F3F9FB;
+    color: #222222;
+    border-radius: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    gap: 5px;
+}
+
+.caja11{
+    width: 1201px;
+    height: 36px;
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+
+}
+
+.categoria3{
+    width: 170px;
+    height: 36px;
+    background-color: #F3F9FB;
+    color: #222222;
+    border-radius: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    gap: 5px;
+}
+
+
+.categoria4{
+    width: 110px;
+    height: 36px;
+    background-color: #F3F9FB;
+    color: #222222;
+    border-radius: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    gap: 10px;
+}
+
+
+.categoria5{
+    width: 131px;
+    height: 36px;
+    background-color: #F3F9FB;
+    color: #222222;
+    border-radius: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    gap: 5px;
+}
+
+.categoria6{
+    width: 100px;
+    height: 36px;
+    background-color: #F3F9FB;
+    color: #222222;
+    border-radius: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    gap: 5px;
+}
+
+
+.categoria7{
+    width: 180px;
+    height: 36px;
+    background-color: #F3F9FB;
+    color: #222222;
+    border-radius: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    gap: 5px;
+}
+
+.categoria8{
+    width: 220px;
+    height: 36px;
+    background-color: #F3F9FB;
+    color: #222222;
+    border-radius: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    gap: 5px;
+}
+
+
+
