@@ -1,0 +1,107 @@
+.cajaT{
+
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    gap: 20px;
+}
+
+.telefonos{
+    width:215px;
+height:300px;
+border-radius: 16px;
+border: 1px solid #EDEDED;
+display: grid;
+grid-template-rows: 60% 30% 10%;
+
+position: relative;
+}
+
+.descuento{
+  position: absolute;
+    width: 51px;
+    height: 53px;
+    font-size: 16px;
+    left: 163px;
+
+    top:-1px;
+    background-color: #008ECC;
+    display: flex;
+
+    align-items: center;
+    padding: 10px;
+    color: white;
+   
+    border-top-right-radius: 16px;
+    border-bottom-left-radius: 16px;
+}
+
+
+.fila1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+background-color:#EDEDED ;
+ border-top-right-radius: 16px;
+ border-top-left-radius: 16px;
+}
+
+.precios{
+    font-size: 16px;
+    color: #222222;
+
+
+}
+
+.precios2{
+    text-decoration-line: line-through;
+}
+
+.fila2{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.precios3{
+    color: #249B3E;
+    
+}
+
+.fila3{
+    border-top: 1px solid #EDEDED;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+
+.telefonos2{
+    width:215px;
+height:300px;
+border-radius: 16px;
+border: 1px solid #EDEDED;
+display: grid;
+grid-template-rows: 60% 30% 10%;
+box-shadow: 1px 1px 7px gray;
+position: relative;
+border: 1px solid #008ECC ;
+}
+
+.fila2{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    padding-left: 10px;
+   
+
+}
+
+.cuadroP{
+    flex-direction: row;
+    display: flex;
+    gap: 20px;
+}
+
+
