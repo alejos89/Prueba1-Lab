@@ -12,9 +12,9 @@
 .circulo1{
     width: 86px;
     height: 86px;
-    background-color: #FFFFFF;
+    background-color: #f8f0f0;
     border-radius: 50px;
-  border: 1px solid black;
+
     position: absolute;
     left: -51px;
     top: 115px;
@@ -26,9 +26,9 @@
 .circulo2{
     width: 86px;
     height: 86px;
-    background-color: #FFFFFF;
+    background-color: #f8f0f0;
     border-radius: 50px;
-    border: 1px solid black;
+    
   
  
     position: absolute;
@@ -101,3 +101,53 @@ align-items: center;
     height: 8px;
     background-color: white;
 }
+
+.caja13{
+ grid-template-columns: 40% 60%;
+    width: 1198px;
+    height: 70px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.texto9{
+    color: #008ECC;
+    font-size: 24px;
+}
+
+.caja14{
+height: 100%;
+border-bottom: 3px solid #008ECC;
+    flex-direction: row;
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+
+.texto8{
+    font-size: 24px;
+    color: #666666;
+
+}
+
+.caja13{
+    
+    margin-top: 100px;
+}
+
+.caja15{
+    justify-content: end;
+    display: flex;
+    font-size: 16px;
+    color: #222222;
+    padding-right: 40px;
+    gap: 10px;
+    align-items: center;
+    height: 100%;
+    border-bottom: 1px solid #EDEDED;
+
+
+}
+
