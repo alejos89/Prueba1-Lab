@@ -1,0 +1,81 @@
+.cajaAlimentos{
+    display: flex;
+   height: 300px;
+    margin-top: 50px;
+    gap: 15px;
+    margin-bottom: 5rem;
+    
+
+}
+
+.fila4{
+    width: 187px;
+    height: 187px;
+    background-color: #F5F5F5;
+    border-radius: 16px;
+    border: 1px solid #008ECC;
+    box-shadow: 1px 1px 11px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+
+   
+}
+
+.canasta{
+    width: 183px;
+    height: 128px;
+    
+}
+
+.cajaA{
+  display: grid;
+  grid-template-rows: 70% 30%;
+  align-items: center;
+  justify-content: center;
+
+}
+
+
+.fila5{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    height: 100%;
+    flex-direction: column;
+}
+
+.producto1{
+    height: 20px;
+    width: 100%px;
+    font-size: 16px;
+    color: #666666;
+}
+
+.producto2{
+    width: 100%;
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.fila6{
+    width: 187px;
+    height: 187px;
+    background-color: #F5F5F5;
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+   
+}
+
+.bolsaAlimentos{
+    width: 145px;
+    height: 164px;
+}
